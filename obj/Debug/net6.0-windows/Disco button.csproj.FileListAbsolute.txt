@@ -1,0 +1,17 @@
+C:\Users\EM\source\repos\Disco button\Disco button\bin\Debug\net6.0-windows\Disco button.exe
+C:\Users\EM\source\repos\Disco button\Disco button\bin\Debug\net6.0-windows\Disco button.deps.json
+C:\Users\EM\source\repos\Disco button\Disco button\bin\Debug\net6.0-windows\Disco button.runtimeconfig.json
+C:\Users\EM\source\repos\Disco button\Disco button\bin\Debug\net6.0-windows\Disco button.dll
+C:\Users\EM\source\repos\Disco button\Disco button\bin\Debug\net6.0-windows\Disco button.pdb
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\Disco button.csproj.AssemblyReference.cache
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\Disco_button.Form1.resources
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\Disco button.csproj.GenerateResource.cache
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\Disco button.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\Disco button.AssemblyInfoInputs.cache
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\Disco button.AssemblyInfo.cs
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\Disco button.csproj.CoreCompileInputs.cache
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\Disco button.dll
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\refint\Disco button.dll
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\Disco button.pdb
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\Disco button.genruntimeconfig.cache
+C:\Users\EM\source\repos\Disco button\Disco button\obj\Debug\net6.0-windows\ref\Disco button.dll
